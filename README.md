@@ -1,6 +1,6 @@
-# QR Code Generator
+# QrGen
 
-This Python-based QR Code Generator allows you to generate QR codes from any text or URL with customizable features such as color options and logo embedding. The tool is designed to be simple to use and flexible, offering options for user input and customization during execution.
+This Python-based QrGen allows you to generate QR codes from any text or URL with customizable features such as color options and logo embedding. The tool is designed to be simple to use and flexible, offering options for user input and customization during execution.
 
 ## Features
 
@@ -12,7 +12,7 @@ This Python-based QR Code Generator allows you to generate QR codes from any tex
 
 ## Installation
 
-To use the QR Code Generator, you need Python and some required libraries. You can install the dependencies by running the following command:
+To use the QrGen, you need Python and some required libraries. You can install the dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
